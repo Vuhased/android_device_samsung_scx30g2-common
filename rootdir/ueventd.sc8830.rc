@@ -91,38 +91,39 @@
 ## Sensor IIO device
 /dev/iio:device*      0660  system   radio
 
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device*              0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* name 0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* static_matrix        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* sampling_frequency           0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* sampling_frequency_available 0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer               0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer/enable        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer/length        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* trigger              0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* trigger/current_trigger      0760  system   radio
+# /sys/devices/70700000.i2c/i2c-2/2-001d/iio:device*              0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* name 0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* static_matrix        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* sampling_frequency           0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* sampling_frequency_available 0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer               0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer/enable        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* buffer/length        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* trigger              0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-001d/iio:device* trigger/current_trigger      0760  system   radio
 
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device*		0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* name	0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* static_matrix	0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* sampling_frequency		0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* sampling_frequency_available	0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer		0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer/enable	0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer/length	0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* trigger		0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* trigger/current_trigger	0760  system   radio
+# /sys/devices/70700000.i2c/i2c-2/2-002e/iio:device*		0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* name	0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* static_matrix	0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* sampling_frequency		0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* sampling_frequency_available	0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer		0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer/enable	0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* buffer/length	0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* trigger		0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-002e/iio:device* trigger/current_trigger	0760  system   radio
 
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device*              0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* name 0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* static_matrix        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* sampling_frequency           0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* sampling_frequency_available 0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer               0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer/enable        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer/length        0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* trigger              0760  system   radio
-/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* trigger/current_trigger      0760  system   radio
+# /sys/devices/70700000.i2c/i2c-2/2-0044/iio:device*              0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* name 0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* static_matrix        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* sampling_frequency           0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* sampling_frequency_available 0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer               0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer/enable        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* buffer/length        0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* trigger              0760  system   radio
+#/sys/devices/70700000.i2c/i2c-2/2-0044/iio:device* trigger/current_trigger      0760  system   radio
 
 # Google FRP solution
 /dev/block/platform/sdio_emmc/by-name/PERSISTENT    0660    system    system
+

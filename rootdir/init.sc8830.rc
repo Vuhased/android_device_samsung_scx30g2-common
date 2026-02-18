@@ -401,7 +401,7 @@ on boot
     mkdir /persdata/absolute 0750 system system
 
     wait /dev/block/platform/sdio_emmc/by-name/persdata
-    check_fs /dev/block/platform/sdio_emmc/by-name/persdata ext4
+#    check_fs /dev/block/platform/sdio_emmc/by-name/persdata ext4
     mount ext4 /dev/block/platform/sdio_emmc/by-name/persdata /persdata/absolute nosuid nodev barrier=1
 
     chown system system /persdata

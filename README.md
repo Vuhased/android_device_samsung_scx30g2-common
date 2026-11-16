@@ -4,5 +4,5 @@ Based on [android_device_samsung_scx30g2-common](https://github.com/j23g/android
 
 ### How to clone:
 ```bash
-git clone -b lineage-16-with-many-bugs https://github.com/Vuhased/android_device_samsung_scx30g2-common device/samsung/scx30g2-common
+git clone -b lineage-16-without https://github.com/Vuhased/android_device_samsung_scx30g2-common device/samsung/scx30g2-common
 ```
